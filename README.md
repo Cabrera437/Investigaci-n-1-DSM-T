@@ -6,8 +6,11 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
 
 > <h2>:dart:Objetivos</h2>
 •	Familiarizarse con el entorno de desarrollo de Android Studio
+<br>
 •	Aprender a crear una interfaz de usuario básica con elementos como EditText, Button y ListView
+<br>
 •	Implementar la lógica para agregar, eliminar y marcar tareas como completadas
+<br>
 •	Investigar y aplicar el concepto de persistencia de datos para guardar las tareas entre sesiones
 
 <h2>:wave: Equipo de desarrollo </h2>
