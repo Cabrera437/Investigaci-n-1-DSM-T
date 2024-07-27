@@ -33,8 +33,8 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
 <h2>:hammer: Tecnologías empleadas</h2> 
 <table> 
   <tr> 
-    <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite Logo" style="width: 900px; height: auto;"></td> 
-    <td><img src="https://miro.medium.com/v2/resize:fit:590/1*c9C8SXCNIETPAiyrF0PmmA.png" alt="Kotlin Logo" style="width: 900px; height: auto;"></td> 
+    <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite Logo" style="width: 400px; height: auto;"></td> 
+    <td><img src="https://miro.medium.com/v2/resize:fit:590/1*c9C8SXCNIETPAiyrF0PmmA.png" alt="Kotlin Logo" style="width: 400px; height: auto;"></td> 
   </tr> 
   <tr align="center"> 
     <td>SQLITE</td> 
