@@ -42,8 +42,9 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
     <td>SQLITE</td> 
     <td>Kotlin</td> 
     <td>Android Studio</td> 
-
   </tr> 
 </table>
+
+<h2>:open_file_folder: Otros Archivos importantes </h2>
 
 
