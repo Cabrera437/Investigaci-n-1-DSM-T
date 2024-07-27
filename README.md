@@ -38,16 +38,16 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
     
   <td> 
 
-  ![1694479065771](https://dc722jrlp2zu8.cloudfront.net/media/django-summernote/2018-03-23/e3372d52-91ff-4e45-90de-79200223e060.jpg)
+  ![1694479065771](https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png)
   </td>
 
   <td>
 
-![64b524021adc5990918944](https://logowik.com/content/uploads/images/kotlin.jpg)    
+![64b524021adc5990918944](https://miro.medium.com/v2/resize:fit:590/1*c9C8SXCNIETPAiyrF0PmmA.png)    
   </td>
   </tr>
   <tr align="center">
-    <td>Laravel SQLITE</td>
+    <td>SQLITE</td>
     <td>kotline</td>
 
   </tr>
