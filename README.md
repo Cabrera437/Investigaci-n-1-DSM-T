@@ -41,7 +41,7 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
   <tr align="center"> 
     <td>SQLITE</td> 
     <td>Kotlin</td> 
-    <td>Android Studio </td> 
+    <td>Android Studio</td> 
 
   </tr> 
 </table>
