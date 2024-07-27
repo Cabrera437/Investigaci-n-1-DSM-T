@@ -30,26 +30,16 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
 </table>
 </div>
 
-<h2>:hammer: Tecnologías Empleadas</h2>
-
-<table>
-  
-  <tr>
-    
-  <td> 
-
-  ![1694479065771](https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png)
-  </td>
-
-  <td>
-
-![64b524021adc5990918944](https://miro.medium.com/v2/resize:fit:590/1*c9C8SXCNIETPAiyrF0PmmA.png)    
-  </td>
-  </tr>
-  <tr align="center">
-    <td>SQLITE</td>
-    <td>kotline</td>
-
-  </tr>
+<h2>:hammer: Tecnologías empleadas</h2> 
+<table> 
+  <tr> 
+    <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite Logo" style="width: 50px; height: auto;"></td> 
+    <td><img src="https://miro.medium.com/v2/resize:fit:590/1*c9C8SXCNIETPAiyrF0PmmA.png" alt="Kotlin Logo" style="width: 50px; height: auto;"></td> 
+  </tr> 
+  <tr align="center"> 
+    <td>SQLITE</td> 
+    <td>Kotlin</td> 
+  </tr> 
 </table>
+
 
