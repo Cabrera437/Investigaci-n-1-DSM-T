@@ -47,9 +47,9 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
   </td>
   </tr>
   <tr align="center">
-    <td>Laravel PHP</td>
-    <td>React JS</td>
-    <td>Tailwind CSS</td>
+    <td>Laravel SQLITE</td>
+    <td>kotline</td>
+
   </tr>
 </table>
 
