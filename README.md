@@ -28,26 +28,3 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
 </div>
 
 <h2>:hammer: Tecnologías Empleadas</h2>
-
-<table>
-  
-  <tr>
-    
-  <td> 
-
-  ![1694479065771](https://logowik.com/content/uploads/images/kotlin.jpg)
-  </td>
-
-  <td>
-
-  ![React](https://dc722jrlp2zu8.cloudfront.net/media/django-summernote/2018-03-23/e3372d52-91ff-4e45-90de-79200223e060.jpg)
-  
-  </td>
-
- <br>
-
-  <h2>:open_file_folder: Otros Archivos importantes </h2>
-
-
-
-
