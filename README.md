@@ -1,4 +1,4 @@
-# Investigaci-n-1-DSM-T 💻
+# Investigación-n1-DSM-T 💻
 Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil 
 
 > [!IMPORTANT]
