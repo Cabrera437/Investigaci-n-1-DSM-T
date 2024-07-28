@@ -44,5 +44,7 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
 </table>
 
 <h2>:open_file_folder: Otros Archivos importantes </h2>
+> [Pefil del proyecto PDF 📖]()
+
 
 
