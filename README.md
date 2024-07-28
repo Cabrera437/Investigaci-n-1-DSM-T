@@ -46,6 +46,7 @@ Bienvenido a nuestro repositorio de la primera investigacion de desarollo movil
 <h2>:open_file_folder: Otros Archivos importantes </h2>
 
 > [Investigación.PDF 📖](https://github.com/Cabrera437/Investigaci-n-1-DSM-T/blob/master/Document/Investigaci%C3%B3n01DSMT.pdf)
+<br>
 > [Video 📽](https://drive.google.com/file/d/1rYgyI6pT4zMaVWWj3x8JC-LZjqUTom1n/view?usp=sharing)
 
 
